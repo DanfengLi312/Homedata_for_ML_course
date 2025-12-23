@@ -1,14 +1,13 @@
-House Price Prediction
+### House Price Prediction
 
-Overview
+## Overview
 
 This project builds and compares multiple statistical and machine learning models to predict residential house prices based on structural characteristics, location-related variables, and economic indicators. The goal is to evaluate model performance, interpretability, and robustness across different modeling approaches.
 
 The project was developed as an end-to-end data science workflow, including data cleaning, feature engineering, model training, validation, and performance comparison.
 
-⸻
 
-Motivation
+## Motivation
 
 Accurate house price prediction is a classic and practical problem in applied statistics and machine learning. This project aims to:
 	•	Understand how different modeling assumptions affect prediction accuracy
